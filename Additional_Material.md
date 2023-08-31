@@ -1,4 +1,6 @@
 This file will contain links for additional materials that I found interesting while doing FSDL
+### Lab 00:
+- [What is Serverless? (Blog Post)](https://sst.dev/chapters/what-is-serverless.html)
 
 ### Lab 01:
 - [Probability - Math for Machine Learning (Video)](https://www.youtube.com/watch?v=LBemXHm_Ops&ab_channel=Weights%26Biases)
@@ -18,4 +20,11 @@ This file will contain links for additional materials that I found interesting w
 - [Transformer Circuits Thread (Blog Post Series)](https://transformer-circuits.pub/)
 - [Neural Networks, Types, and Functional Programming (Blog Post)](https://colah.github.io/posts/2015-09-NN-Types-FP/)
 - [Understanding LSTM Networks (Blog Post)](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
--
+- [Autoregressive models (Blog Post)](https://deepgenerativemodels.github.io/notes/autoregressive/)
+- [Transformer Circuit Exercises (Blog Post)](https://transformer-circuits.pub/2021/exercises/index.html)
+- [interpreting GPT: the logit lens (Blog Post)](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)
+- [A Gentle Introduction to the Bag-of-Words Model (Blog Post)](https://machinelearningmastery.com/gentle-introduction-bag-words-model/)
+- [The Annotated Transformer (Article)](http://nlp.seas.harvard.edu/annotated-transformer/)
+- [The Illustrated Transformer (Blog Post and Video)](https://jalammar.github.io/illustrated-transformer/)
+- [Transformers from Scratch (Blog Post)](https://e2eml.school/transformers.html)
+- [Transformers for software engineers (Blog Post)](https://blog.nelhage.com/post/transformers-for-software-engineers/)
