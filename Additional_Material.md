@@ -28,3 +28,6 @@ This file will contain links for additional materials that I found interesting w
 - [The Illustrated Transformer (Blog Post and Video)](https://jalammar.github.io/illustrated-transformer/)
 - [Transformers from Scratch (Blog Post)](https://e2eml.school/transformers.html)
 - [Transformers for software engineers (Blog Post)](https://blog.nelhage.com/post/transformers-for-software-engineers/)
+### Lab 05:
+- [Making Deep Learning Go Brrrr From First Principles (Blog Post)](https://horace.io/brrr_intro.html)
+- [PyTorch internals (Blog Post)](http://blog.ezyang.com/2019/05/pytorch-internals/)
